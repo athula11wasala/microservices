@@ -1,1 +1,10 @@
-cdsd
+
+/*React*/
+
+https://reactstrap.github.io/
+yarn add
+
+/*/
+
+Gateway:URl :http://localhost:8000/api
+Asset Url : http://localhost:4444/api
